@@ -10,6 +10,7 @@ jsn.tian的个人博客
 
 ### 最新
 
+* [单例模式的七种写法](https://www.puferu.com/articles/2019/08/30/1567156578954.html)
 * [flink从0到1(一)](https://www.puferu.com/articles/2019/08/28/1566960428227.html)
 * [java枚举](https://www.puferu.com/articles/2019/08/26/1566798612900.html)
 * [clickhouse按月删除数据](https://www.puferu.com/articles/2019/08/23/1566544591583.html)
