@@ -10,6 +10,7 @@ jsn.tian的个人博客
 
 ### 最新
 
+* [mysql常用命令](https://www.jsntian.com/articles/2019/09/21/1569053131380.html)
 * [centos搭建docker私服仓库](https://www.jsntian.com/articles/2019/08/31/1567233385867.html)
 * [单例模式的七种写法](https://www.jsntian.com/articles/2019/08/30/1567156578954.html)
 * [flink从0到1(一)](https://www.jsntian.com/articles/2019/08/28/1566960428227.html)
