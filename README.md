@@ -10,16 +10,16 @@ jsn.tian的个人博客
 
 ### 最新
 
-* [centos搭建docker私服仓库](https://www.puferu.com/articles/2019/08/31/1567233385867.html)
-* [单例模式的七种写法](https://www.puferu.com/articles/2019/08/30/1567156578954.html)
-* [flink从0到1(一)](https://www.puferu.com/articles/2019/08/28/1566960428227.html)
-* [java枚举](https://www.puferu.com/articles/2019/08/26/1566798612900.html)
-* [clickhouse按月删除数据](https://www.puferu.com/articles/2019/08/23/1566544591583.html)
-* [nginx.conf之https ssl配置](https://www.puferu.com/articles/2019/08/22/1566472154626.html)
-* [nginx.conf之缓存配置](https://www.puferu.com/articles/2019/08/22/1566471443897.html)
-* [centos下nginx配置安装](https://www.puferu.com/articles/2019/08/22/1566469517608.html)
-* [centos安装配置jdk](https://www.puferu.com/articles/2019/08/22/1566460282263.html)
-* [阿里云centos配置ssh和主机名脚本](https://www.puferu.com/centos-shell)
+* [centos搭建docker私服仓库](https://www.jsntian.com/articles/2019/08/31/1567233385867.html)
+* [单例模式的七种写法](https://www.jsntian.com/articles/2019/08/30/1567156578954.html)
+* [flink从0到1(一)](https://www.jsntian.com/articles/2019/08/28/1566960428227.html)
+* [java枚举](https://www.jsntian.com/articles/2019/08/26/1566798612900.html)
+* [clickhouse按月删除数据](https://www.jsntian.com/articles/2019/08/23/1566544591583.html)
+* [nginx.conf之https ssl配置](https://www.jsntian.com/articles/2019/08/22/1566472154626.html)
+* [nginx.conf之缓存配置](https://www.jsntian.com/articles/2019/08/22/1566471443897.html)
+* [centos下nginx配置安装](https://www.jsntian.com/articles/2019/08/22/1566469517608.html)
+* [centos安装配置jdk](https://www.jsntian.com/articles/2019/08/22/1566460282263.html)
+* [阿里云centos配置ssh和主机名脚本](https://www.jsntian.com/centos-shell)
 
 
 
