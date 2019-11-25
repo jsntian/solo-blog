@@ -10,20 +10,23 @@ jsn.tian的个人博客
 
 ### 最新
 
-* [linux用户权限生产环境权限管理项目方案](https://www.puferu.com/articles/2019/11/22/1574397800808.html)
-* [Autowired的使用--Spring规范解释，推荐对构造函数进行注释](https://www.puferu.com/articles/2019/10/10/1570698452955.html)
-* [UTF-8编码占几个字节?](https://www.puferu.com/articles/2019/09/24/1569316466691.html)
-* [mysql常用命令](https://www.puferu.com/articles/2019/09/21/1569053233571.html)
-* [centos搭建docker私服仓库](https://www.puferu.com/articles/2019/08/31/1567233385867.html)
-* [单例模式的七种写法](https://www.puferu.com/articles/2019/08/30/1567156578954.html)
-* [flink从0到1(一)](https://www.puferu.com/articles/2019/08/28/1566960428227.html)
-* [java枚举](https://www.puferu.com/articles/2019/08/26/1566798612900.html)
-* [clickhouse常用命令](https://www.puferu.com/articles/2019/08/23/1566544591583.html)
-* [nginx.conf之https ssl配置](https://www.puferu.com/articles/2019/08/22/1566472154626.html)
-* [nginx.conf之缓存配置](https://www.puferu.com/articles/2019/08/22/1566471443897.html)
-* [centos下nginx配置安装](https://www.puferu.com/articles/2019/08/22/1566469517608.html)
-* [centos安装配置jdk](https://www.puferu.com/articles/2019/08/22/1566460282263.html)
-* [阿里云centos配置ssh和主机名脚本](https://www.puferu.com/centos-shell)
+* [linux用户权限生产环境权限管理项目方案](https://www.jsntian.com/articles/2019/11/22/1574397850958.html)
+* [ Java.lang包介绍](https://www.jsntian.com/articles/2019/10/10/1570696633205.html)
+* [java中Class对象详解](https://www.jsntian.com/articles/2019/10/08/1570542648201.html)
+* [Java.lang包介绍](https://www.jsntian.com/articles/2019/10/08/1570520131522.html)
+* [UTF-8编码占几个字节?](https://www.jsntian.com/articles/2019/09/24/1569316448973.html)
+* [激活](https://www.jsntian.com/articles/2019/09/23/1569213644914.html)
+* [mysql常用命令](https://www.jsntian.com/articles/2019/09/21/1569053131380.html)
+* [centos搭建docker私服仓库](https://www.jsntian.com/articles/2019/08/31/1567233385867.html)
+* [单例模式的七种写法](https://www.jsntian.com/articles/2019/08/30/1567156578954.html)
+* [flink从0到1(一)](https://www.jsntian.com/articles/2019/08/28/1566960428227.html)
+* [java枚举](https://www.jsntian.com/articles/2019/08/26/1566798612900.html)
+* [clickhouse常用命令](https://www.jsntian.com/articles/2019/08/23/1566544591583.html)
+* [nginx.conf之https ssl配置](https://www.jsntian.com/articles/2019/08/22/1566472154626.html)
+* [nginx.conf之缓存配置](https://www.jsntian.com/articles/2019/08/22/1566471443897.html)
+* [centos下nginx配置安装](https://www.jsntian.com/articles/2019/08/22/1566469517608.html)
+* [centos安装配置jdk](https://www.jsntian.com/articles/2019/08/22/1566460282263.html)
+* [阿里云centos配置ssh和主机名脚本](https://www.jsntian.com/centos-shell)
 
 
 
